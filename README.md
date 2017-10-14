@@ -76,6 +76,9 @@ Note: this script generate a very long command line. it is restricted by ARG_MAX
     R2 : 560 Ohm
     C1 : 1 uF or less
 
+R1 and R2 is needed to avoid input saturation/clipping.
+it's very important for stabilise a mode2.
+
 # reffer
 https://bbs.nextthing.co/t/installing-lirc-on-c-h-i-p/2449/5
 
