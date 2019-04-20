@@ -80,7 +80,8 @@ R1 and R2 is needed to avoid input saturation/clipping.
 it's very important for stabilise a mode2.
 
 # reffer
-https://bbs.nextthing.co/t/installing-lirc-on-c-h-i-p/2449/5
+~~https://bbs.nextthing.co/t/installing-lirc-on-c-h-i-p/2449/5~~
+https://web.archive.org/web/20180602133626/https://bbs.nextthing.co/t/installing-lirc-on-c-h-i-p/2449
 
 # usage example
     # install tools
